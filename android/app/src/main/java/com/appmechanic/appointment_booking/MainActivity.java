@@ -1,4 +1,4 @@
-package com.appmechanic.appointment_booking_flutter;
+package com.appmechanic.appointment_booking;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;

@@ -1,4 +1,4 @@
-# appointment_booking_flutter
+# appointment_booking
 
 A new Flutter application.
 
